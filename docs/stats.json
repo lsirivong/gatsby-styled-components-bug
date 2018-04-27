@@ -1,0 +1,28 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-717071b9a2c337f46dcc.js",
+      "component---src-pages-index-js-717071b9a2c337f46dcc.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-2bd0c679b8c7a2b312a3.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-2bd0c679b8c7a2b312a3.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "commons": [
+      "commons-eb6cf03d758b8266fc50.js",
+      "commons-eb6cf03d758b8266fc50.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-564d8df7b4654c7b0ce3.js",
+      "app-564d8df7b4654c7b0ce3.js.map"
+    ]
+  }
+}
